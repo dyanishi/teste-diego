@@ -13,8 +13,6 @@
     "en"
   ],
   "dependency": [
-    "jimu-arcgis",
-    "pdf-lib",
-    "esri-loader"
+    "jimu-arcgis"
   ]
 }
